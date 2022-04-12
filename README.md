@@ -1,4 +1,4 @@
-# Virtual-Keyboard-control-by-hand-using-Camera
+# Virtual-Quiz-control-by-hand-using-Camera
 Control Screen Quiz by fingers using Camera in Opencv.
 # Shortly Explain:
 this is a virtual game,when the distance between index and middel finger decrease <50 then the button click the answerand the bottem side bar show %age acording to Questions.how much you complte thye questions. 
